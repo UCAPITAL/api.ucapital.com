@@ -4,7 +4,7 @@ Get all deposits of user
 
 #### Request
 
-GET http://api.UCapital.com/deposit/getuserdeposits?data=JSON_DATA
+GET http://api.ucapital.com/deposit/getuserdeposits?data=JSON_DATA
 
 where `JSON_DATA` is like
 
