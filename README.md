@@ -1,7 +1,7 @@
-api.ubinary.com
+api.ucapital.com
 ==========
 
-Ubinary public API documentation tree
+Ucapital public API documentation tree
 
 ### trading
 
