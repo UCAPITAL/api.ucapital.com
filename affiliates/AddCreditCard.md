@@ -5,7 +5,7 @@ add **credit card** for the logged in user
 
 #### Request
 
-GET http://api.UCapital.com/creditcard/add?data=JSON_DATA
+GET http://api.ucapital.com/creditcard/add?data=JSON_DATA
 
 where `JSON_DATA` is like
 
