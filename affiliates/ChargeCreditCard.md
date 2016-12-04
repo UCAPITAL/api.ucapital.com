@@ -3,7 +3,7 @@
 Chage credit card of the logged in user
 #### Request
 
-GET http://api.ubinary.com/deposit/add?data=JSON_DATA
+GET http://api.ucapital.com/deposit/add?data=JSON_DATA
 
 
 where `JSON_DATA` is like
