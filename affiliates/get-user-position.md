@@ -1,6 +1,6 @@
 ﻿## Get open positions of a specified user
 
-GET http://api.ubinary.com/trading/affiliate/12345/user/get/position?data=JSON_DATA
+GET http://api.ucapital.com/trading/affiliate/12345/user/get/position?data=JSON_DATA
 
 where `12345` - is your affiliate id and `JSON_DATA` is like
 
@@ -13,7 +13,7 @@ where `12345` - is your affiliate id and `JSON_DATA` is like
 
 ##### A valid request example
 
-http://api.ubinary.com/trading/affiliate/12345/user/get/position?data={"UserId":"john@ub.com","PositionId":"1234"} 
+http://api.ucapital.com/trading/affiliate/12345/user/get/position?data={"UserId":"john@ub.com","PositionId":"1234"} 
 
 ```json
 {
@@ -22,7 +22,7 @@ http://api.ubinary.com/trading/affiliate/12345/user/get/position?data={"UserId":
 }
 ```
 
-http://api.ubinary.com/trading/affiliate/12345/user/get/position?data={"UserId":"123456","PositionId":"1234"} 
+http://api.ucapital.com/trading/affiliate/12345/user/get/position?data={"UserId":"123456","PositionId":"1234"} 
 
 ```json
 {
