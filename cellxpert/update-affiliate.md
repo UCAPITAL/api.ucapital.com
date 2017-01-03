@@ -4,7 +4,7 @@ Update affiliate details
 
 #### Request
 
-GET http://api.ubinary.com/online/integration/cellxpert/update/affiliate
+GET http://api.ucapital.com/online/integration/cellxpert/update/affiliate
 
 
 where `JSON_DATA` is like
