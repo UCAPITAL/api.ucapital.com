@@ -2,7 +2,7 @@
 
 Get all fund transactions between specified dates
 
-[Try it online](http://api.ubinary.com/nunit/page/online.html)
+[Try it online](http://api.ucapital.com/nunit/page/online.html)
 
 
 #### Request
