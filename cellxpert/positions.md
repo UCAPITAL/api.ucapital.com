@@ -2,12 +2,12 @@
 
 Get all positions opened between specified dates
 
-[Try it online](http://api.ubinary.com/nunit/page/online.html)
+[Try it online](http://api.ucapital.com/nunit/page/online.html)
 
 
 #### Request
 
-GET http://api.ubinary.com/online/integration/cellxpert/positions?data=JSON_DATA
+GET http://api.ucapital.com/online/integration/cellxpert/positions?data=JSON_DATA
 
 where `JSON_DATA` is like
 
