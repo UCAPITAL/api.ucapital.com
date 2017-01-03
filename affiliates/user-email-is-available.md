@@ -1,6 +1,6 @@
 ﻿## Check if email is available for registration
 
-GET http://api.ubinary.com/trading/user/email/is/available?data=JSON_DATA
+GET http://api.ucapital.com/trading/user/email/is/available?data=JSON_DATA
 
 where `JSON_DATA` is like
 
@@ -12,7 +12,7 @@ where `JSON_DATA` is like
 
 ##### A valid request example
 
-http://api.ubinary.com/trading/user/email/is/available?data=%7B%22Email%22:%22john@ub.com%22%7D
+http://api.ucapital.com/trading/user/email/is/available?data=%7B%22Email%22:%22john@ub.com%22%7D
 
 ```json
 {
