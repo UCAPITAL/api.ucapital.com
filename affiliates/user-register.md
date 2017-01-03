@@ -1,6 +1,6 @@
 ﻿## Register user
 
-GET http://api.ubinary.com/trading/affiliate/12345/user/register?data=JSON_DATA
+GET http://api.ucapital.com/trading/affiliate/12345/user/register?data=JSON_DATA
 
 where `12345` - is your affiliate id and `JSON_DATA` is like
 
@@ -34,7 +34,7 @@ Cn           | Chinese
 
 ##### A valid request example
 
-http://api.ubinary.com/trading/affiliate/12345/user/register?data=%7B%22FirstName%22:%22TestJohn%22,%22LastName%22:%22TestSmith%22,%22PhoneNumber%22:%22044-1234567%22,%22Email%22:%22test-12317@ub.com%22,%22Tlid%22:%22abcd-efgh-ighk%22,%22Password%22:%22111111%22,%22CountryCode%22:%22%22,%22FromIp%22:%22%22,%22Ctag%22:%22%22%7D
+http://api.ucapital.com/trading/affiliate/12345/user/register?data=%7B%22FirstName%22:%22TestJohn%22,%22LastName%22:%22TestSmith%22,%22PhoneNumber%22:%22044-1234567%22,%22Email%22:%22test-12317@ub.com%22,%22Tlid%22:%22abcd-efgh-ighk%22,%22Password%22:%22111111%22,%22CountryCode%22:%22%22,%22FromIp%22:%22%22,%22Ctag%22:%22%22%7D
 
 ```json
 {
