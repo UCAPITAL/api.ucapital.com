@@ -7,7 +7,7 @@ Get all fund transactions between specified dates
 
 #### Request
 
-GET http://api.ubinary.com/online/integration/cellxpert/funds?data=JSON_DATA
+GET http://api.ucapital.com/online/integration/cellxpert/funds?data=JSON_DATA
 
 where `JSON_DATA` is like
 
